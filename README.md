@@ -57,6 +57,7 @@
 * MrJohhhnnnyyy
 * The Signal Path
 * HDXFH
+* GreatScott!
 
 ## Retro Technology
 * Lazy Game Reviews (LGR)
