@@ -1,51 +1,51 @@
-##The Almighty
+## The Almighty
 * carykh
 * Abacaba
 
-##General
+## General
 * CGP Grey
 
-##General Science
+## General Science
 * SciShow
 * minutephysics
 * MinuteEarth
 * Brainiac75
 * The Backyard Scientist
 
-##Linguistics and Worldbuilding
+## Linguistics and Worldbuilding
 * Xidnaf
 * Artifexian
 
-##Computer Sciences
+## Computer Sciences
 * Computerphile
 * Esperantanaso (ostracod)
 
-##How Places Operate
+## How Places Operate
 * EEVdiscover
 
-##Programming
+## Programming
 * Bisqwit
 * kupala (khoraski)
 
-##Science
+## Science
 * Cody'sLab
 * Vsauce
 * Veritasium
 
-##Futurism
+## Futurism
 * Isaac Arthur
 
-##Malicious Software & Hardware
+## Malicious Software & Hardware
 * danooct1
 * rogueamp
 
-##KSP and Space
+## KSP and Space
 * Bob Fitch
 * GrunfWorks
 * Bradley Whistance
 * Matt Lowne
 
-##Electrical Engineering
+## Electrical Engineering
 * Mr Carlson's Lab
 * mikeselectricstuff
 * Ben Eater
@@ -56,7 +56,7 @@
 * The Signal Path
 * HDXFH
 
-##Retro Technology
+## Retro Technology
 * Lazy Game Reviews (LGR)
 * Techmoan
 * The 8-Bit Guy (The iBookguy)
@@ -65,17 +65,17 @@
 * The Obsolete Geek
 * Classic Gaming Quarterly
 
-##The History of Video Games, and How They Work
+## The History of Video Games, and How They Work
 * Ahoy
 * pannenkoek2012
 * stryder7x
 
-##Minecraft Redstone (general computing concepts)
+## Minecraft Redstone (general computing concepts)
 * n00b_asaurus
 * Properinglish19
 * bennyscube
 * Koala_Steamed
 
-##Comedy
+## Comedy
 * ElectroBOOM
 * Photonicinduction
