@@ -4,6 +4,7 @@
 
 ## General
 * CGP Grey
+* Tom Scott
 
 ## General Science
 * SciShow
@@ -44,6 +45,7 @@
 * GrunfWorks
 * Bradley Whistance
 * Matt Lowne
+* Scott Manley
 
 ## Electrical Engineering
 * Mr Carlson's Lab
