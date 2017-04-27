@@ -85,3 +85,7 @@
 
 ## HTSTEM Regulars
 * ender_scythe
+* Zwei
+* Noahkiq
+* Lock
+* hanss314
