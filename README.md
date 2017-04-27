@@ -82,4 +82,5 @@
 * Photonicinduction
 
 ## HTSTEM Regulars
-* ender_scythe
+* [ender_scythe#4686](https://discordapp.com/channels/@me/297047659657822208)
+* [Bottersnike#3605](https://discordapp.com/channels/@me/305776697905512450)
