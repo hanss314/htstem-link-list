@@ -6,12 +6,15 @@
 * CGP Grey
 * Tom Scott
 
-## General Science
+## Science
 * SciShow
 * minutephysics
 * MinuteEarth
 * Brainiac75
 * The Backyard Scientist
+* Cody'sLab
+* Vsauce
+* Veritasium
 
 ## Linguistics and Worldbuilding
 * Xidnaf
@@ -27,11 +30,6 @@
 ## Programming
 * Bisqwit
 * kupala (khoraski)
-
-## Science
-* Cody'sLab
-* Vsauce
-* Veritasium
 
 ## Futurism
 * Isaac Arthur
