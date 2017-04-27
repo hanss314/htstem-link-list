@@ -82,3 +82,6 @@
 ## Comedy
 * ElectroBOOM
 * Photonicinduction
+
+## HTSTEM Regulars
+* ender_scythe
